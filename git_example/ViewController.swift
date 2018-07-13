@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     }
 
     @IBAction func touchmeifyoucan(_ sender: Any) {
-        print("this is git hub example")
+        print("You finished!")
     }
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
